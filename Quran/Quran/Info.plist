@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Al Majeed Quranic Font_shiped.ttf</string>
+		<string>Al Majeed Quranic Font_shiped</string>
+		<string>Al Majeed Quranic Font Regular.ttf</string>
+		<string>Al Majeed Quranic Font Regular</string>
+		<string>uthmanic_hafs_v22.ttf</string>
+		<string>alfont_com_SFProAR_semibold.ttf</string>
+		<string>SFProAR.ttf</string>
+		<string>AmiriQuran-Regular.ttf</string>
+		<string>NotoKufiArabic-VariableFont_wght.ttf</string>
+		<string>IBMPlexSansArabic-SemiBold.ttf</string>
+	</array>
+</dict>
+</plist>
